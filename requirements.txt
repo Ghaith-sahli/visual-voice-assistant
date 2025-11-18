@@ -6,3 +6,6 @@ gTTS
 gradio
 torch
 Pillow
+flask
+requests
+jsonify
